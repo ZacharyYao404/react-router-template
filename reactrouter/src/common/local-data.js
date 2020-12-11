@@ -1,0 +1,86 @@
+export const headerLinks=[
+    {
+       title:"发现音乐",
+       link:"/discover"
+
+    },
+    {
+        title:"我的音乐",
+        link:"/mine"
+    },
+    {
+        title:"朋友",
+        link:"/friend"
+    },
+    {
+        title:"商城",
+        link:"/google"
+    },
+    {
+        title:"音乐人",
+        link:"/baidu"
+    },
+    {
+        title:"下载客户端",
+        link:"/https://www.zhihu.com/question/52812780"
+    }
+]
+
+export const footerLinks=[
+    {
+       title:"服务条款",
+       link:"http:baidu.com"
+    },
+    {
+        title:"隐私政策",
+        link:"http:baidu.com"
+     },
+     {
+        title:"儿童隐私政策",
+        link:"http:baidu.com"
+     },
+     {
+        title:"版权投诉指引",
+        link:"http:baidu.com"
+     },
+     {
+        title:"意见反馈",
+        link:"http:baidu.com"
+     },
+]
+export const footerImages=[
+    {
+       link:"baidu" 
+    },
+    {
+        link:"baidu" 
+     },
+     {
+        link:"baidu" 
+     },
+     {
+        link:"baidu" 
+     },
+]
+export const discoverMenu=[
+    {
+        title:"推荐",
+        link:"/discover/recommend"
+    },
+    {
+        title:"排行",
+        link:"/discover/ranking"
+    },
+    {
+        title:"主播电台",
+        link:"/discover/djradio"
+    },
+    {
+        title:"歌手",
+        link:"/discover/artist"
+    },
+    {
+        title:"新碟上架",
+        link:"/discover/album"
+    },
+]
